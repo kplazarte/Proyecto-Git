@@ -2,7 +2,7 @@
 
 Realizamos un código en Python 
 
-## Installation
+## Instalacion
 
 Para instalar Python usamos el comando.
 
@@ -10,7 +10,7 @@ Para instalar Python usamos el comando.
 yum install python3
 ```
 
-## Usage
+## Uso
 
 ```python
 
